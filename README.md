@@ -17,7 +17,7 @@ This project is a streamlined Hardhat setup designed to deploy test ERC20 and ER
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Friedheilm/contract-deployment.git>
    cd contract-deployment
 
 2. **Install dependencies:**

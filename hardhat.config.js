@@ -227,5 +227,10 @@ module.exports = {
       chainId: 6281971,
       accounts: [process.env.PRIVATE_KEY],
     },
+    pharos_atlantic: {
+      url: "https://atlantic.dplabs-internal.com",
+      chainId: 688689,
+      accounts: [process.env.PRIVATE_KEY],
+    },
   },
 };
